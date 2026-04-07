@@ -5,7 +5,7 @@ This repository contains the code and map outputs for my COMP1890 Spatial Data S
 Is fuel poverty in England spatially clustered, and does deprivation predict where fuel poverty is worst?
 
 ## Methods
-*Moran's I - global spatial autocorrelation (result: I = 0.636, p < 0.001)
+* Moran's I - global spatial autocorrelation (result: I = 0.636, p < 0.001)
 *Getis-Ord Gi* - local hotspot identification (3,106 hot spot LSOAs at 99% confidence)
 *Spearman's rank correlation - deprivation vs fuel poverty relationship (rho = -0.638, p < 0.001)
 
