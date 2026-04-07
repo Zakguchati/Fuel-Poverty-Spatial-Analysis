@@ -26,4 +26,4 @@ Is fuel poverty in England spatially clustered, and does deprivation predict whe
 * chart2_boxplot.png — fuel poverty distribution by region
 
 ## Author
-Zakariya Guechchati —#- University of Greenwich, April 2026
+Zakariya Guechchati - University of Greenwich, April 2026
