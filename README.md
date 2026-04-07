@@ -19,7 +19,7 @@ Is fuel poverty in England spatially clustered, and does deprivation predict whe
 * QGIS for cartographic outputs
 
 ## Files
-* analysis.R - full R script for data joining, spatial weights, statistical analysis and chart production
+* Spatial_analysis.R - full R script for data joining, spatial weights, statistical analysis and chart production
 * map1_fuel_poverty.png — choropleth map of fuel poverty rates
 * map2_hotspot.png — Getis-Ord Gi* hotspot classification map
 * chart1_scatter.png — IMD rank vs fuel poverty scatter plot
